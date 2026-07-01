@@ -1,2 +1,2 @@
 # avs-chainbase
-38
+39
